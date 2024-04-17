@@ -1,2 +1,1 @@
-# Transcript.github.io
-Landing Page
+# Landing Page
